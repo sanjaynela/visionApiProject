@@ -276,12 +276,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - **SwiftUI Charts** for beautiful data visualization
 - **The iOS development community** for inspiration and support
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/sanjaynela/visionApiProject/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/sanjaynela/visionApiProject/discussions)
-- **Email**: [sanjay@example.com](mailto:sanjay@example.com)
-
 ---
 
 **Built with ❤️ using Apple's Vision framework and SwiftUI**
